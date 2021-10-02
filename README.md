@@ -16,3 +16,9 @@ data point for the total number of trips. Locataion appeared to not be a facor i
 Thius is the dashboard image that aggregates a number of table and pages. 
 
 ![image](https://user-images.githubusercontent.com/80292608/135727827-d377ddd3-3b7f-4da4-bf98-0c61a5c9c4b6.png)
+
+This is the data from the most and least used start stations. Important to note is that this data only represents one day. 
+It could be that there was an event or something specific taking place near the Grove St location. More inquiry
+and additional dates would be needed to confirm this hypothesis. 
+
+![image](https://user-images.githubusercontent.com/80292608/135727847-c5086576-c272-414f-be6f-892811aff7c9.png)
