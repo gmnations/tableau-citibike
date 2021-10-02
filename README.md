@@ -6,3 +6,5 @@ This file contanied a diverse data-set, but for a limitted time.
 I did not feel this was a detriment and continued with connecting and 
 created one data source from the connections made with the single file and
 multiple tables. 
+
+https://public.tableau.com/app/profile/greg.nations/viz/tableau-challenge-citibike_16331972946900/DataAnalysisCitibike?publish=yes
