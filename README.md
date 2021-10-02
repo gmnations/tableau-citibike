@@ -9,6 +9,10 @@ multiple tables.
 https://public.tableau.com/app/profile/greg.nations?authMode=activationSuccess
 
 The data reveals the % of total trips per gender. I was interested to know if location was a significant 
-data point for the total number of trips.
+data point for the total number of trips. Locataion appeared to not be a facor in the % of trips per gender. 
 
 ![image](https://user-images.githubusercontent.com/80292608/135727757-7bf4c93a-6d86-4d6d-a644-3be91e8030cd.png)
+
+Thius is the dashboard image that aggregates a number of table and pages. 
+
+![image](https://user-images.githubusercontent.com/80292608/135727827-d377ddd3-3b7f-4da4-bf98-0c61a5c9c4b6.png)
